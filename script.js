@@ -1,4 +1,4 @@
-// client.js
+
 
 const socket = io("http://localhost:5000");
 const messageForm = document.getElementById("send-container");
