@@ -16,7 +16,7 @@
     "concat-map": "^0.0.1",
     "cookie": "^0.4.2",
     "cors": "^2.8.5",
-    "debug": "^4.3.4",
+    "debug": "^4.4.3",
     "engine.io": "^6.5.4",
     "engine.io-parser": "^5.2.2",
     "fill-range": "^7.0.1",
