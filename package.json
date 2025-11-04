@@ -33,7 +33,7 @@
     "minimatch": "^3.1.2",
     "ms": "^2.1.2",
     "negotiator": "^0.6.3",
-    "nodemon": "^3.1.0",
+    "nodemon": "^3.1.10",
     "nopt": "^1.0.10",
     "normalize-path": "^3.0.0",
     "object-assign": "^4.1.1",
